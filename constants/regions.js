@@ -1,0 +1,72 @@
+module.exports.regions=[
+    {
+        name:"Andijon",
+        id:"1",
+        action_name:"andijon"
+    },
+    {
+        name:"Buxoro",
+        id:"4",
+        action_name:"buxoro"
+    },
+    {
+        name:"Farg'ona",
+        id:"37",
+        action_name:"fargona"
+    },
+    {
+        name:"Jizzah",
+        id:"9",
+        action_name:"jizzah"
+    },
+    {
+        name:"Namangan",
+        id:"15",
+        action_name:"namangan"
+    },
+    {
+        name:"Navoiy",
+        id:"14",
+        action_name:"navoiy"
+    },
+    {
+        name:"Qashqadaro",
+        id:"93",
+        action_name:"qashqadaryo"
+    },
+    {
+        name:"Qoraqalpog'iston",
+        id:"16",
+        action_name:"qoraqalpogiston"
+    },
+    {
+        name:"Samarqand",
+        id:"18",
+        action_name:"samarqand"
+    },
+    {
+        name:"Sirdaryo",
+        id:"5",
+        action_name:"sirdaryo"
+    },
+    {
+        name:"Surxondaryo",
+        id:"74",
+        action_name:"surxondaryo"
+    },
+    {
+        name:"Toshkent",
+        id:"27",
+        action_name:"toshkent"
+    },
+    {
+        name:"Xorazm",
+        id:"21",
+        action_name:"xorazm"
+    },
+]
+
+// all regions names
+module.exports.regions_string='andijonbuxorofargonajizzahnamangannavoiyqashqadaryoqoraqalpogistonsamarqandsirdaryosurxondaryotoshkentxorazm' 
+module.exports.set_regions_string='setandijonsetbuxorosetfargonasetjizzahsetnamangansetnavoiysetqashqadaryosetqoraqalpogistonsetsamarqandsetsirdaryosetsurxondaryosettoshkentsetxorazm' 
+
